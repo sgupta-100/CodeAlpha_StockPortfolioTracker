@@ -1,0 +1,16 @@
+PS D:\Coding\Python> python -u "d:\Coding\Python\Project\stoc_portfolio_tracker.py"
+Enter the stock name(or 'quit' to end the count of profit): JASPO
+Enter the quantity for JASPO: 10
+Investment for JASPO: $4400
+Enter the stock name(or 'quit' to end the count of profit): GAME
+Enter the quantity for GAME: 20
+Investment for GAME: $6200
+Enter the stock name(or 'quit' to end the count of profit): AAPL
+Enter the quantity for AAPL: 15
+Investment for AAPL: $2700
+Enter the stock name(or 'quit' to end the count of profit): QUIT
+
+Total Investment Value: $13300
+Do you want to save this result to a file? (yes/no): no
+File not saved!!
+PS D:\Coding\Python>
